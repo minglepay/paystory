@@ -18,6 +18,6 @@
    - ✔ 빌링 방식은 구독 서비스 등의 정기적인 결제가 필요한 경우,<br> PAY-STORY로 부터 구매자의 결제정보가 암호화된 키를 받고 저장하여,<br> 결제가 필요한 시기마다 암호키를 이용하여 결제를 진행할 수 있는 방식입니다.
    
       - 📒  [빌링 결제 메뉴얼 ](https://github.com/minglepay/paystory/wiki/%EB%B9%8C%EB%A7%81-%EA%B2%B0%EC%A0%9C-%EB%A9%94%EB%89%B4%EC%96%BC)
-      - 🔗 샘플코드 ([JSP](https://docs.google.com/uc?export=download&id=1O74SGe5UkNb6Lr0t8agYwWarwtNKhyPk&confirm=t) || [PHP](https://docs.google.com/uc?export=download&id=1FQKE9x8oQ-YfNZTj0nFlAq_AoBPAeGUt&confirm=t) || [ASP](https://docs.google.com/uc?export=download&id=11YvRaAR7GzYdfiESF1SiQ0BNA_VcKxgn&confirm=t))
+      - 🔗 샘플코드 ( <a href="https://docs.google.com/uc?export=download&id=1O74SGe5UkNb6Lr0t8agYwWarwtNKhyPk&confirm=t" ><img src="https://img.shields.io/badge/-JSP-red?style=flat-square" width="25" ></a>&nbsp;&nbsp;<a href="https://docs.google.com/uc?export=download&id=1FQKE9x8oQ-YfNZTj0nFlAq_AoBPAeGUt&confirm=t" ><img src="https://img.shields.io/badge/-PHP-blue?style=flat-square" width="26" ></a>&nbsp;&nbsp;<a href="https://docs.google.com/uc?export=download&id=11YvRaAR7GzYdfiESF1SiQ0BNA_VcKxgn&confirm=t" ><img src="https://img.shields.io/badge/-ASP-black?style=flat-square" width="26" ></a> )
 
 
