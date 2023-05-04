@@ -6,8 +6,9 @@
 선택한 결제사의 인증화면을 통해 인증을 한 후 결제가 완료되는 일반적인 결제 방식 입니다.
 
       - 📕 [표준창 결제 메뉴얼](https://github.com/minglepay/paystory/wiki/%ED%91%9C%EC%A4%80%EC%B0%BD-%EA%B2%B0%EC%A0%9C-%EB%A9%94%EB%89%B4%EC%96%BC) 
-      - 🔗 샘플파일 <br>
-            <a href="https://docs.google.com/uc?export=download&id=1JWB8n7obmiMXtWbmPL4klcj1hrPSKIaH&confirm=t" ><img src="https://img.shields.io/badge/-JSP-red?style=flat" width="40" ></a>&nbsp;&nbsp;<a href="https://docs.google.com/uc?export=download&id=1OPbDAXw6z9PgK_oICF9aSeuA2ceOW4AJ&confirm=t" ><img src="https://img.shields.io/badge/-PHP-blue?style=flat" width="41" ></a>&nbsp;&nbsp;<a href="https://docs.google.com/uc?export=download&id=1n3QGr5uUJJwoOM5HLmMHF-gDy4HG5_DZ&confirm=t" ><img src="https://img.shields.io/badge/-ASP-black?style=flat" width="41" ></a>&nbsp;&nbsp;<a href="https://docs.google.com/uc?export=download&id=1Ud3YOEzVN-zrnIbwoVlfcn-6KyVTbwr7&confirm=t" ><img src="https://img.shields.io/badge/-ASP.NET-GREEN?style=flat" width="63" ></a>&nbsp;&nbsp;<a href="https://docs.google.com/uc?export=download&id=1mNK9jINveZ1n5pIF7u6lLk0q88pL8TbO&confirm=t" ><img src="https://img.shields.io/badge/-VB.NET-purple?style=flat" width="59" ></a> 
+      - 🔗 샘플파일 
+
+         <a href="https://docs.google.com/uc?export=download&id=1JWB8n7obmiMXtWbmPL4klcj1hrPSKIaH&confirm=t" ><img src="https://img.shields.io/badge/-JSP-red?style=flat" width="40" ></a>&nbsp;&nbsp;<a href="https://docs.google.com/uc?export=download&id=1OPbDAXw6z9PgK_oICF9aSeuA2ceOW4AJ&confirm=t" ><img src="https://img.shields.io/badge/-PHP-blue?style=flat" width="41" ></a>&nbsp;&nbsp;<a href="https://docs.google.com/uc?export=download&id=1n3QGr5uUJJwoOM5HLmMHF-gDy4HG5_DZ&confirm=t" ><img src="https://img.shields.io/badge/-ASP-black?style=flat" width="41" ></a>&nbsp;&nbsp;<a href="https://docs.google.com/uc?export=download&id=1Ud3YOEzVN-zrnIbwoVlfcn-6KyVTbwr7&confirm=t" ><img src="https://img.shields.io/badge/-ASP.NET-GREEN?style=flat" width="68" ></a>&nbsp;&nbsp;<a href="https://docs.google.com/uc?export=download&id=1mNK9jINveZ1n5pIF7u6lLk0q88pL8TbO&confirm=t" ><img src="https://img.shields.io/badge/-VB.NET-purple?style=flat" width="74" ></a> 
 
 
 
