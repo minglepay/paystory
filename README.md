@@ -3,8 +3,8 @@
 <br>
 
 - ##  일반 결제
-   - ✔ 일반 결제 방식은 PAY-STORY 에서 제공한 창에서 결제방법(결제사)를 선택하고,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;선택한 결제사의 인증화면을 통해 인증을 한 후 결제가 완료되는 일반적인 결제 방식 입니다.
+   - ✔ 일반 결제 방식은 PAY-STORY 에서 제공한 창에서 결제수단을 선택하고,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;인증을 한 후 결제가 완료되는 일반적인 결제 방식 입니다.
 
       - :notebook: [일반 결제 메뉴얼](https://github.com/minglepay/paystory/wiki/%EC%9D%BC%EB%B0%98-%EA%B2%B0%EC%A0%9C-%EB%A9%94%EB%89%B4%EC%96%BC) 
       - :file_folder: 샘플파일 다운로드
