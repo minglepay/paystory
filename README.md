@@ -83,21 +83,5 @@
          <img src="https://img.shields.io/badge/-PYTHON-20c7d8?style=for-the-badge" width="96"></a>
           
 
-<br>
-
-  <br>
-
--  ## 위챗 페이
-   - ✔ 위챗 페이는 WECHAT APP 에 등록된 결제수단을 이용하여 결제를 진행할 수 있는 방식입니다.
-   
-      - :notebook:  [위챗 페이 메뉴얼 ](https://github.com/minglepay/paystory/wiki/%EC%9C%84%EC%B1%97%ED%8E%98%EC%9D%B4-%EA%B2%B0%EC%A0%9C-%EB%A9%94%EB%89%B4%EC%96%BC)
-      - :file_folder: 샘플파일 다운로드
-  
-         <a href="https://docs.google.com/uc?export=download&id=1S8Dq3-1bDtn5TxaMJ5CReCe0FJIgZFi0&confirm=t">
-         <img src="https://img.shields.io/badge/-JSP-bb0000?style=for-the-badge" width="59"></a>&nbsp;&nbsp;
-
-         <a href="https://docs.google.com/uc?export=download&id=1kXFrJelgnoAnou7h-AXl35jqRhHfZYpp&confirm=t">
-         <img src="https://img.shields.io/badge/-PHP-00b9ff?style=for-the-badge" width="64"></a>
-         
 
 
