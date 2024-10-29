@@ -67,7 +67,7 @@
    - ✔ 알림톡 결제는 구매자에게 결제를 할 수 있는 링크(카카오 알림톡)를 전달하여,<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;구매자가 알림톡에 있는 링크를 통해 결제를 진행하는 서비스입니다.  
 
    
-      - :notebook:  [알림톡 결제 메뉴얼 ](https://github.com/minglepay/paystory/wiki/%EB%B9%8C%EB%A7%81-%EA%B2%B0%EC%A0%9C-%EB%A9%94%EB%89%B4%EC%96%BC)
+      - :notebook:  [알림톡 결제 메뉴얼 ](https://github.com/minglepay/paystory/wiki/%EC%95%8C%EB%A6%BC%ED%86%A1-%EA%B2%B0%EC%A0%9C-%EB%A9%94%EB%89%B4%EC%96%BC)
       - :file_folder: 샘플파일 다운로드
   
          <a href="https://docs.google.com/uc?export=download&id=17aJhuOJvnZ6XWoR7JzcaJR4l6FCf4vmG&confirm=t">
