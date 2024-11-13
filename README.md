@@ -18,12 +18,6 @@
          <a href="https://docs.google.com/uc?export=download&id=1rOpKfLkozKqM0mpeFvY3Dvuw41MuX7dO&confirm=t">
          <img src="https://img.shields.io/badge/-ASP-FF5200?style=for-the-badge" width="63"></a>&nbsp;&nbsp;
 
-         <a href="https://docs.google.com/uc?export=download&id=1UYwlKoqq-qVn-EAB_g_pnYaoeUWYHAFU&confirm=t">
-         <img src="https://img.shields.io/badge/-ASP.NET-GREEN?style=for-the-badge" width="101"></a>&nbsp;&nbsp;
-
-         <a href="https://docs.google.com/uc?export=download&id=11ghfmqEHmy4uYu8ejA6AVlcwjtFI-ocD&confirm=t">
-         <img src="https://img.shields.io/badge/-VB.NET-ff9c43?style=for-the-badge" width="91"></a>&nbsp;&nbsp;
-
          <a href="https://docs.google.com/uc?export=download&id=1y8JAJaivrSp3lXCgkYJtKRMvxS7PaS4H&confirm=t">
          <img src="https://img.shields.io/badge/-NODE.JS-000000?style=for-the-badge" width="101"></a>&nbsp;&nbsp;
 
