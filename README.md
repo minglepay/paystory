@@ -9,7 +9,7 @@
       - :notebook: [일반 결제 메뉴얼](https://github.com/minglepay/paystory/wiki/%EC%9D%BC%EB%B0%98-%EA%B2%B0%EC%A0%9C-%EB%A9%94%EB%89%B4%EC%96%BC) 
       - :file_folder: 샘플파일 다운로드
   
-         <a href="https://docs.google.com/uc?export=download&id=1znH5AQQc4Y56P-1D-kOT2DsAyvhdoAeI&confirm=t">
+         <a href="https://docs.google.com/uc?export=download&id=1v4U7ZuG9GOaB-DUL3Hbc1VWRf8rNBDJq&confirm=t">
          <img src="https://img.shields.io/badge/-JSP-bb0000?style=for-the-badge" width="59"></a>&nbsp;&nbsp;
 
          <a href="https://docs.google.com/uc?export=download&id=1znH5AQQc4Y56P-1D-kOT2DsAyvhdoAeI&confirm=t">
