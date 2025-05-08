@@ -6,7 +6,7 @@
    - ✔ 일반 결제 방식은 PAY-STORY 에서 제공한 창에서 결제수단을 선택하고,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;인증을 한 후 결제가 완료되는 일반적인 결제 방식 입니다.
 
-      - :notebook: [일반 결제 메뉴얼](https://github.com/minglepay/paystory/wiki/%EC%9D%BC%EB%B0%98-%EA%B2%B0%EC%A0%9C-%EB%A9%94%EB%89%B4%EC%96%BC) 
+      - :notebook: [일반 결제 WEB 메뉴얼](https://github.com/minglepay/paystory/wiki/%EC%9D%BC%EB%B0%98-%EA%B2%B0%EC%A0%9C-%EB%A9%94%EB%89%B4%EC%96%BC) 
       - :file_folder: 샘플파일 다운로드
   
          <a href="https://docs.google.com/uc?export=download&id=1PlJEYOIqYaJ4r8gWV18wYdoAGxZaFqWi&confirm=t">
@@ -24,7 +24,11 @@
          <a href="https://docs.google.com/uc?export=download&id=1VClrSZpB4SilpgpboJHrhjsQ9RwtssZh&confirm=t">
          <img src="https://img.shields.io/badge/-PYTHON-20c7d8?style=for-the-badge" width="96"></a>
 
-
+      - 📃 메뉴얼 문서 다운로드 
+       
+         <a href="https://docs.google.com/uc?export=download&id=1xzTVki0VoQE9TyEOTAqY24aTbAY2zmXv&confirm=t">
+         <img src="https://img.shields.io/badge/-일반결제 연동 가이드-63c163?style=for-the-badge" width="200"></a>      
+       
   <br>
 
   <br>
