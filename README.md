@@ -9,19 +9,19 @@
       - :notebook: [일반 결제 메뉴얼](https://github.com/minglepay/paystory/wiki/%EC%9D%BC%EB%B0%98-%EA%B2%B0%EC%A0%9C-%EB%A9%94%EB%89%B4%EC%96%BC) 
       - :file_folder: 샘플파일 다운로드
   
-         <a href="https://docs.google.com/uc?export=download&id=1NODHu34YnUHn3izPk8b_vYmf0-6vzpN3&confirm=t">
+         <a href="https://docs.google.com/uc?export=download&id=1PlJEYOIqYaJ4r8gWV18wYdoAGxZaFqWi&confirm=t">
          <img src="https://img.shields.io/badge/-JSP-bb0000?style=for-the-badge" width="59"></a>&nbsp;&nbsp;
 
-         <a href="https://docs.google.com/uc?export=download&id=1reP245NmRxU5MmhQj2EUsrUCg1PyatW9&confirm=t">
+         <a href="https://docs.google.com/uc?export=download&id=1RXYbfUmAiSDVj5FTCRGTAEm9o_ODDr52&confirm=t">
          <img src="https://img.shields.io/badge/-PHP-00b9ff?style=for-the-badge" width="64"></a>&nbsp;&nbsp;
 
-         <a href="https://docs.google.com/uc?export=download&id=1eomnbkqg4Jsvgtsny9YiwF2mTbyDMd76&confirm=t">
+         <a href="https://docs.google.com/uc?export=download&id=1bJ0NLPQ12IKV73WwbksUEYWK2cMjtYNK&confirm=t">
          <img src="https://img.shields.io/badge/-ASP-FF5200?style=for-the-badge" width="63"></a>&nbsp;&nbsp;
 
-         <a href="https://docs.google.com/uc?export=download&id=16YB3GntYIhkHReG93mj0hC6VhwrLt-BA&confirm=t">
+         <a href="https://docs.google.com/uc?export=download&id=1IWAT9J7OdUsubenmS5yF-KgcjnsA0bp7&confirm=t">
          <img src="https://img.shields.io/badge/-NODE.JS-000000?style=for-the-badge" width="101"></a>&nbsp;&nbsp;
 
-         <a href="https://docs.google.com/uc?export=download&id=15t8rqs681gIEoWlSD4kgdtgKsI_7JSjO&confirm=t">
+         <a href="https://docs.google.com/uc?export=download&id=1VClrSZpB4SilpgpboJHrhjsQ9RwtssZh&confirm=t">
          <img src="https://img.shields.io/badge/-PYTHON-20c7d8?style=for-the-badge" width="96"></a>
 
 
@@ -37,19 +37,19 @@
       - :notebook:  [빌링 결제 메뉴얼 ](https://github.com/minglepay/paystory/wiki/%EB%B9%8C%EB%A7%81-%EA%B2%B0%EC%A0%9C-%EB%A9%94%EB%89%B4%EC%96%BC)
       - :file_folder: 샘플파일 다운로드
   
-         <a href="https://docs.google.com/uc?export=download&id=1Nn_Acu9mQJJqMSchtwfNvT9OuAJ2A2VR&confirm=t">
+         <a href="https://docs.google.com/uc?export=download&id=1j5zyNYFiJ2t7vGGlmW7OQeqHhhqbufcl&confirm=t">
          <img src="https://img.shields.io/badge/-JSP-bb0000?style=for-the-badge" width="59"></a>&nbsp;&nbsp;
 
-         <a href="https://docs.google.com/uc?export=download&id=1_oF0Hz_Isb7T12LJRAieHtA1F6PMwisP&confirm=t">
+         <a href="https://docs.google.com/uc?export=download&id=1sbPATAaVjlYnWva_L24nLpOBgtXwxrgn&confirm=t">
          <img src="https://img.shields.io/badge/-PHP-00b9ff?style=for-the-badge" width="64"></a>&nbsp;&nbsp;
 
-         <a href="https://docs.google.com/uc?export=download&id=1Zcgecf3yo4qXa2kndwRvT8u38FSa-u-T&confirm=t">
+         <a href="https://docs.google.com/uc?export=download&id=19Hnzgp4SgD4GvMX4OfI7Mtp9S0vy4kJN&confirm=t">
          <img src="https://img.shields.io/badge/-ASP-FF5200?style=for-the-badge" width="63"></a>&nbsp;&nbsp;
 
-         <a href="https://docs.google.com/uc?export=download&id=1ybv27D1oCtePW26jKZXmdqsMdA7UWtkn&confirm=t">
+         <a href="https://docs.google.com/uc?export=download&id=1Ogv9wf3hqcIBf8LdNignmHeFXj7UjFW7&confirm=t">
          <img src="https://img.shields.io/badge/-NODE.JS-000000?style=for-the-badge" width="101"></a>&nbsp;&nbsp;
 
-         <a href="https://docs.google.com/uc?export=download&id=1vdR2AbRLMpwFGgH__MDXsQFC0Tz26gQm&confirm=t">
+         <a href="https://docs.google.com/uc?export=download&id=1d6Sq-JTH7twnYbWYlyVqPDs5JFVAxrwa&confirm=t">
          <img src="https://img.shields.io/badge/-PYTHON-20c7d8?style=for-the-badge" width="96"></a>
           
 
