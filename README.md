@@ -64,16 +64,16 @@
       - :notebook:  [알림톡 결제 메뉴얼 ](https://github.com/minglepay/paystory/wiki/%EC%95%8C%EB%A6%BC%ED%86%A1-%EA%B2%B0%EC%A0%9C-%EB%A9%94%EB%89%B4%EC%96%BC)
       - :file_folder: 샘플파일 다운로드
   
-         <a href="https://docs.google.com/uc?export=download&id=17aJhuOJvnZ6XWoR7JzcaJR4l6FCf4vmG&confirm=t">
+         <a href="https://docs.google.com/uc?export=download&id=1lOUlXNTpOjF6vfAQH8xSK35Jp3bXM0_h&confirm=t">
          <img src="https://img.shields.io/badge/-JSP-bb0000?style=for-the-badge" width="59"></a>&nbsp;&nbsp;
 
-         <a href="https://docs.google.com/uc?export=download&id=1DXzCxgffw1r34b0vQQnFiY4COI4olgTG&confirm=t">
+        <a href="https://docs.google.com/uc?export=download&id=1iRrovfBTtqCkvmz1gAOQHjkzf0eoLV-L&confirm=t">
          <img src="https://img.shields.io/badge/-PHP-00b9ff?style=for-the-badge" width="64"></a>&nbsp;&nbsp;
                   
-         <a href="https://docs.google.com/uc?export=download&id=1xq8nsCaRZyUuvr_Fljhea_bKMpcklxT1&confirm=t">
+        <a href="https://docs.google.com/uc?export=download&id=1nEUZp3XMc-NZuPWFW87zSBxD2JoirxNm&confirm=t">
          <img src="https://img.shields.io/badge/-NODE.JS-000000?style=for-the-badge" width="101"></a>&nbsp;&nbsp;
          
-         <a href="https://docs.google.com/uc?export=download&id=1Lzc_bke--aUNxLIE3073MCKviPVPsxU7&confirm=t">
+         <a href="https://docs.google.com/uc?export=download&id=1Rqv3CUHqUJhOrWqf59WsNGyo8vSWN5-g&confirm=t">
          <img src="https://img.shields.io/badge/-PYTHON-20c7d8?style=for-the-badge" width="96"></a>
           
 
