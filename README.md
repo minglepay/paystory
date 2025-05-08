@@ -24,7 +24,7 @@
          <a href="https://docs.google.com/uc?export=download&id=1VClrSZpB4SilpgpboJHrhjsQ9RwtssZh&confirm=t">
          <img src="https://img.shields.io/badge/-PYTHON-20c7d8?style=for-the-badge" width="96"></a>
 
-      - 📃 메뉴얼 문서 다운로드 
+      - 📂 메뉴얼 다운로드 
        
          <a href="https://docs.google.com/uc?export=download&id=1xzTVki0VoQE9TyEOTAqY24aTbAY2zmXv&confirm=t">
          <img src="https://img.shields.io/badge/-일반결제 연동 가이드-63c163?style=for-the-badge" width="200"></a>      
@@ -56,6 +56,10 @@
          <a href="https://docs.google.com/uc?export=download&id=1d6Sq-JTH7twnYbWYlyVqPDs5JFVAxrwa&confirm=t">
          <img src="https://img.shields.io/badge/-PYTHON-20c7d8?style=for-the-badge" width="96"></a>
           
+      - 📂 메뉴얼 다운로드 
+       
+         <a href="https://docs.google.com/uc?export=download&id=1d_7mfEuCuxCN_FWsp1OtO4Mdwe4KDi5z&confirm=t">
+         <img src="https://img.shields.io/badge/-빌링 연동 가이드-63c163?style=for-the-badge" width="160"></a>      
 
 <br>
 
@@ -80,6 +84,9 @@
          <a href="https://docs.google.com/uc?export=download&id=1Rqv3CUHqUJhOrWqf59WsNGyo8vSWN5-g&confirm=t">
          <img src="https://img.shields.io/badge/-PYTHON-20c7d8?style=for-the-badge" width="96"></a>
           
-
+       - 📂 메뉴얼 다운로드 
+       
+         <a href="https://docs.google.com/uc?export=download&id=1y1v8KTOIWn-wrZqf6Uyo27CZ5O5D0_pP&confirm=t">
+         <img src="https://img.shields.io/badge/-알림톡 결제 연동 가이드-63c163?style=for-the-badge" width="220"></a>
 
 
