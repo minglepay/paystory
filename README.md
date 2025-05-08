@@ -38,7 +38,7 @@
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PAY-STORY로 부터 구매자의 결제정보가 암호화된 키를 받고 저장하여,<br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;결제가 필요한 시기마다 암호키를 이용하여 결제를 진행할 수 있는 방식입니다.
    
-      - :notebook:  [빌링 결제 메뉴얼 ](https://github.com/minglepay/paystory/wiki/%EB%B9%8C%EB%A7%81-%EA%B2%B0%EC%A0%9C-%EB%A9%94%EB%89%B4%EC%96%BC)
+      - :notebook:  [빌링 결제 WEB 메뉴얼 ](https://github.com/minglepay/paystory/wiki/%EB%B9%8C%EB%A7%81-%EA%B2%B0%EC%A0%9C-%EB%A9%94%EB%89%B4%EC%96%BC)
       - :file_folder: 샘플파일 다운로드
   
          <a href="https://docs.google.com/uc?export=download&id=1j5zyNYFiJ2t7vGGlmW7OQeqHhhqbufcl&confirm=t">
@@ -69,7 +69,7 @@
    - ✔ 알림톡 결제는 구매자에게 결제를 할 수 있는 링크(카카오 알림톡)를 전달하여,<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;구매자가 알림톡에 있는 링크를 통해 결제를 진행하는 서비스입니다.  
 
    
-      - :notebook:  [알림톡 결제 메뉴얼 ](https://github.com/minglepay/paystory/wiki/%EC%95%8C%EB%A6%BC%ED%86%A1-%EA%B2%B0%EC%A0%9C-%EB%A9%94%EB%89%B4%EC%96%BC)
+      - :notebook:  [알림톡 결제 WEB 메뉴얼 ](https://github.com/minglepay/paystory/wiki/%EC%95%8C%EB%A6%BC%ED%86%A1-%EA%B2%B0%EC%A0%9C-%EB%A9%94%EB%89%B4%EC%96%BC)
       - :file_folder: 샘플파일 다운로드
   
          <a href="https://docs.google.com/uc?export=download&id=1lOUlXNTpOjF6vfAQH8xSK35Jp3bXM0_h&confirm=t">
