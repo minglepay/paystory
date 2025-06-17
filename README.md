@@ -26,7 +26,7 @@
 
       - 📂 메뉴얼 다운로드 
        
-         <a href="https://docs.google.com/uc?export=download&id=1xzTVki0VoQE9TyEOTAqY24aTbAY2zmXv&confirm=t">
+         <a href="https://docs.google.com/uc?export=download&id=1g_9_DQYL6guT8t5anUMEYLy5pB7RZK_T&confirm=t">
          <img src="https://img.shields.io/badge/-일반결제 연동 가이드-63c163?style=for-the-badge" width="200"></a>      
        
   <br>
@@ -58,7 +58,7 @@
           
       - 📂 메뉴얼 다운로드 
        
-         <a href="https://docs.google.com/uc?export=download&id=1d_7mfEuCuxCN_FWsp1OtO4Mdwe4KDi5z&confirm=t">
+         <a href="https://docs.google.com/uc?export=download&id=1xfZFuNhyBNa5dhVIpXiXnDGEseDvOnLG&confirm=t">
          <img src="https://img.shields.io/badge/-빌링 연동 가이드-63c163?style=for-the-badge" width="160"></a>      
 
 <br>
