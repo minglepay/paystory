@@ -26,7 +26,7 @@
 
       - 📂 메뉴얼 다운로드 
        
-         <a href="https://docs.google.com/uc?export=download&id=1g_9_DQYL6guT8t5anUMEYLy5pB7RZK_T&confirm=t">
+         <a href="https://docs.google.com/uc?export=download&id=1mF5dUQXpnKi2EmE9js0aFBMVJ091I2A3&confirm=t">
          <img src="https://img.shields.io/badge/-일반결제 연동 가이드-63c163?style=for-the-badge" width="200"></a>      
        
   <br>
