@@ -26,11 +26,12 @@
 
       - 📂 메뉴얼 다운로드 
        
+<<<<<<< HEAD
          <a href="https://docs.google.com/uc?export=download&id=1mF5dUQXpnKi2EmE9js0aFBMVJ091I2A3&confirm=t">
+=======
+         <a href="https://docs.google.com/uc?export=download&id=1kyLsg9LHg0KMCbv8aca6S2qWhMzn8wQL&confirm=t">
+>>>>>>> 58bc044 (메뉴얼 update)
          <img src="https://img.shields.io/badge/-일반결제 연동 가이드-63c163?style=for-the-badge" width="200"></a>      
-       
-  <br>
-
   <br>
 
 -  ## 빌링 결제
